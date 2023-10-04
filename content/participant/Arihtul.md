@@ -1,5 +1,5 @@
 ---
 Name: Arihtul
-institution/company: UoC
+institution/company: UOR
 github: https://github.com/Arihtul
 ---
